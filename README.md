@@ -40,7 +40,8 @@ As the spec continues to evolve and vendors nail down their implementations, thi
     <td>
       Chrome (fixed in 44)<br>
       Opera (fixed in 31)<br>
-      Safari (fixed in 10)
+      Safari (fixed in 10)<br>
+      Android (fixed in 4.4.4+)
     </td>
     <td>
       <a href="https://code.google.com/p/chromium/issues/detail?id=426898">Chrome #426898</a><br>
